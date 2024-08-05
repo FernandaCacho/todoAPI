@@ -1,0 +1,9 @@
+h1, h2{
+   text-align: center;
+}
+
+body {
+   margin: 0;
+   padding: 40px;
+   font-family: Arial, sans-serif;
+ }
